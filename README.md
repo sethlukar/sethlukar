@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seth
 - I cannot code
-- Help me
+- Help me.
 
 <!---
 sethlukar/sethlukar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
